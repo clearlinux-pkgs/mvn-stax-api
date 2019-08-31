@@ -4,7 +4,7 @@
 #
 Name     : mvn-stax-api
 Version  : 1.0.1
-Release  : 3
+Release  : 4
 URL      : https://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
 Source0  : https://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
 Source1  : https://repo1.maven.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
